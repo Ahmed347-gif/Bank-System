@@ -1,0 +1,49 @@
+﻿  Bank.cpp
+C:\Users\ahmeg\source\repos\Bank\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\ahmeg\source\repos\Bank\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\ahmeg\source\repos\Bank\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\ahmeg\source\repos\Bank\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\ahmeg\source\repos\Bank\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\ahmeg\source\repos\Bank\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\ahmeg\source\repos\Bank\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\ahmeg\source\repos\Bank\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\ahmeg\source\repos\Bank\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\ahmeg\source\repos\Bank\clsBankClient.h(357,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\ahmeg\source\repos\Bank\clsBankClient.h(370,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\ahmeg\source\repos\Bank\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\ahmeg\source\repos\Bank\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\ahmeg\source\repos\Bank\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\ahmeg\source\repos\Bank\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\ahmeg\source\repos\Bank\clsBankClient.h(312,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\ahmeg\source\repos\Bank\clsUsers.h(308,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank.vcxproj -> C:\Users\ahmeg\source\repos\Bank\x64\Debug\Bank.exe
