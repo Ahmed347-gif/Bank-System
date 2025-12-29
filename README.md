@@ -1,5 +1,5 @@
 Project (12) - 🏦 Bank Management System – C++ (OOP)
-🏦 Bank Management System – C++ (OOP)
+
 📌 Project Overview
 
 This project is a full-featured console-based Bank Management System developed using C++, with a strong focus on Object-Oriented Programming (OOP) principles.
