@@ -112,6 +112,7 @@ Easy maintenance
 Scalability for future features
 
 📂 Project Architecture
+
 📂 Bank-System
 │
 ├── 📁 Core
@@ -166,6 +167,8 @@ Scalability for future features
 │   └── Global.h
 │
 └── main.cpp
+
+
 
 🎯 Learning Outcomes
 
