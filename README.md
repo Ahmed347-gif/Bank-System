@@ -1,7 +1,8 @@
+Project (12) - 🏦 Bank Management System – C++ (OOP)
 🏦 Bank Management System – C++ (OOP)
 📌 Project Overview
 
-This project is a full-featured console-based Bank Management System developed using C++ with a strong focus on Object-Oriented Programming (OOP) principles.
+This project is a full-featured console-based Bank Management System developed using C++, with a strong focus on Object-Oriented Programming (OOP) principles.
 
 The system simulates a real-world banking environment, including client management, user management with permissions, authentication, and financial transactions, all organized through a clean, menu-driven console interface.
 
@@ -86,7 +87,7 @@ Separation of concerns
 
 🧱 System Architecture
 
-The system is structured using a screen-based architecture, where each screen is implemented as a separate class responsible for its own logic and display.
+The system follows a screen-based layered architecture, where each screen is implemented as a separate class responsible for its own logic and display.
 
 Examples:
 
@@ -110,7 +111,9 @@ Easy maintenance
 
 Scalability for future features
 
-🧱 Project Architecture│
+📂 Project Architecture
+📂 Bank-System
+│
 ├── 📁 Core
 │   ├── clsPerson.h
 │   ├── clsUser.h
@@ -164,7 +167,6 @@ Scalability for future features
 │
 └── main.cpp
 
-
 🎯 Learning Outcomes
 
 This project significantly improved my ability to:
@@ -195,3 +197,8 @@ Convert the project into a GUI or web-based system
 
 Ahmed Magdy Farouk
 Software Developer | C++ | OOP | System Design
+
+⭐ Feedback
+
+Feedback and suggestions are always welcome.
+Feel free to explore the project and share your thoughts 🚀
